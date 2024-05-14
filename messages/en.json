@@ -1,0 +1,92 @@
+{
+  "Navbar": {
+    "1": "WHY US?",
+    "2": "HOW TO START?",
+    "3": "WHERE TO PROMOTE?",
+    "4": "FAQ",
+    "5": "LOGIN",
+    "6": "SIGN UP"
+  },
+  "Homepage": {
+    "1": "INCREASE YOUR PROFITS WITH THE FIRST",
+    "2": "CASH ON DELIVERY DROPSHIPPING NETWORK",
+    "3": "IN MENA REGION",
+    "4": "Register ,Promote offers and Earn Attractive Commissions",
+    "5": "Get started",
+    "6": "How to register ?"
+  },
+  "Whyus": {
+    "1": "Why Should You Join Us Today?",
+    "2": "Small Capital",
+    "3": "A project that generates profits with a small capital investment.",
+    "4": "Just Focus on Marketing",
+    "5": "Spread your ads across both free and paid platforms.",
+    "6": "High Net Profi Margin",
+    "7": "Impressive net profits from thousands of available offers and products."
+  },
+  "Ourlocations": {
+    "1": "Our Locations",
+    "2": "Our growing network of services allows for faster delivery and shorter transit times",
+    "3": "With ADCOD NETWORK Growing Warehouse Network and seamless integrations, we help you reach your customers quickly, effectively ,and affordably. Expand your business and distribute your inventory in strategically located warehouses spanning four continents and more than 9 countries.",
+    "4": "Start Now"
+  },
+  "Accountmanager": {
+    "1": "Unique",
+    "2": "Account Manager",
+    "3": "Your Ultimate Partner in Business Growth",
+    "4": "With ADCOD NETWORK Growing Warehouse Network and seamless integrations, we help you reach your customers quickly, effectively ,and affordably. Expand your business and distribute your inventory in strategically located warehouses spanning four continents and more than 9 countries.",
+    "5": "Register Now"
+  },
+  "Howtostart": {
+    "1": "Quick and easy steps to earn through our affiliate programs",
+    "2": "Create an Account",
+    "3": "Create an account on the Affiliate platform by filling out the registration form.",
+    "4": "Choose offers",
+    "5": "Among the many offers in different industries, pick the ones that suit you.",
+    "6": "Promote Products",
+    "7": "Use referral links or link your store to the platform to access millions of potential customers.",
+    "8": "Earn Commission",
+    "9": "Earn the commission on confirmed or delivered orders."
+  },
+  "Ourpartners": "Our Partners",
+  "Faq": {
+    "1": "Can I market the product in a different destination if it is available in one country ?",
+    "2": "Products can only be promoted if they are available in the same country. For instance, a product that is only available in Saudi Arabia cannot be sold in the UAE, Kuwait, or any other country.",
+    "3": "What is the minimum amount that can be withdrawn ?",
+    "4": "The minimum payment is $100 for Gulf countries and $20 for Morocco.",
+    "5": "What are the conditions for accepting my account ?",
+    "6": "All information must be correct and a copy of national identity card or passport are required.",
+    "7": "How do we approve the offers request ?",
+    "8": "It depends of the available quantity in each public offer.",
+    "9": "Are there ways to promote offers instead of a referral link ?",
+    "10": "In addition to referral links, we provide many platforms and solutions, such as YouCan, Woocommerce and Shopify. (Tutorials on our Youtube Channel).",
+    "11": "Which payment options are available ?",
+    "12": {
+      "1": "Available payment options are:",
+      "2": "Paypal",
+      "3": "Payoneer",
+      "4": "TransferWise",
+      "5": "Bank Account"
+    },
+    "13": "Is it possible to use a single WooCommerce or YouCan store for multiple countries ?",
+    "14": "The offer currency must match the currency used in the store. Therefore, each country should have its own store.",
+    "15": "Why is domain name not working ?",
+    "16": "Make sure you’ve pointed your domain name to the following nameservers",
+    "17": "FAQ",
+    "18": "For more informations contact us :"
+  },
+  "Tutorials": {
+    "1": "Tutorials",
+    "2": "How to Connect Youcan Store to Affiliate Platform ?",
+    "3": "How to Setup Landing Pages ?",
+    "4": "How to connect domain name ?",
+    "5": "How to Connect WooCommerce with Affiliate Platform ?"
+  },
+  "Support": "We support various Store Plateforms",
+  "Card": {
+    "1": "An all-in-one digital platform",
+    "2": "ADCOD.co Dropshipping Platfrom is a service that allows you to sell products without having capital to buy the commodity wholesale. We provide all services from importing goods, call centers, warehousing, shipping and collecting funds and sending them to our client accounts.",
+    "3": "We help people achieve and earn highly profitable commissions through their marketing of the products we make available to them on the Affiliate website.",
+    "4": "Get started"
+  }
+}
